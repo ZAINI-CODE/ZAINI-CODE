@@ -36,20 +36,20 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 
 ## 🛠 Tech Stack
 
-**Front-End**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Learning Now**
+**Front-End**
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Back-End & Databases**
 
@@ -68,6 +68,12 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 
+**🌱 Learning Now** *(Back-End & Front-End)*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,10 +88,16 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZAINI-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAINI-CODE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub followers](https://img.shields.io/github/followers/ZAINI-CODE?label=Followers&style=for-the-badge&logo=github&color=2c5364)](https://github.com/ZAINI-CODE?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=ZAINI-CODE&label=Profile%20Views&style=for-the-badge&color=0e75b6)](https://github.com/ZAINI-CODE)
 
-<img src="https://streak-stats.demolab.com?user=ZAINI-CODE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/ZAINI-CODE">
+  <img src="https://streak-stats.demolab.com?user=ZAINI-CODE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/ZAINI-CODE">
+  <img src="https://ghchart.rshah.org/38bdf8/ZAINI-CODE" alt="Contribution graph" width="95%" />
+</a>
 
 </div>
 
@@ -93,17 +105,18 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 
 ## 💼 Featured Projects
 
-### 🔬 ResearchForge — Final-Year Project *(Proposed)*
-An AI-powered research companion that helps students and researchers find, understand and organise academic work in one place.
+### 🔬 ResearchForge — Final-Year Project
+A multi-agent AI platform for the full research workflow: finding papers, verifying citations, minimising similarity and generating research papers, all in one place.
 
+- 🤖 **Multi-tasking agents:** specialised AI agents work in parallel on discovery, synthesis, citation checking and writing
 - 🔎 **Paper discovery:** search and explore relevant research papers by topic
-- 🧠 **AI-assisted synthesis:** summarise and combine findings from multiple papers
-- 📚 **Citation management:** collect, organise and format references
-- 🧬 **Semantic similarity checks:** compare text by meaning, not just matching words
+- 📚 **Citation verification & management:** verify that references are real and accurate, then organise and format them properly
+- 🧬 **Similarity checking & minimisation:** detect overlap by meaning and reduce similarity so the final text is original
+- 📝 **Research paper generation:** AI-assisted synthesis and drafting of structured research papers
 
 **Tech Stack:** `Next.js` `FastAPI` `Python`
 
-![Status](https://img.shields.io/badge/Status-Proposed-f59e0b?style=flat-square) ![Repo](https://img.shields.io/badge/Repo-Coming_Soon-6b7280?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Development-0ea5e9?style=flat-square) ![Repo](https://img.shields.io/badge/Repo-Coming_Soon-6b7280?style=flat-square)
 
 ---
 
@@ -149,37 +162,12 @@ A food ordering experience built around Pakistani restaurants, from browsing to 
 
 ---
 
-## 🚧 Upcoming Projects
-
-> Spots reserved for what I'm building next. Watch this space! 👀
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 1 | ⚛️ **Next.js Full-Stack App** | Next.js, Tailwind CSS | 🔜 Planned |
-| 2 | 🤖 **Agentic AI Assistant** (agents + web UI) | Python, Next.js, LLM API | 🔜 Planned |
-| 3 | 🧠 **Deep Learning Mini Project** (e.g. image classifier) | Python, TensorFlow / PyTorch | 🔜 Planned |
-| 4 | 🌐 **Portfolio v2** (Next.js + Tailwind redesign) | Next.js, Tailwind CSS | 🔜 Planned |
-| 5 | 🧠 *Your idea here, let's collaborate!* | — | 💡 Open |
-
----
-
 ## 🎯 Currently Open To
 
 - 🧑‍🎨 **Freelance:** landing pages, portfolios, React / Next.js web apps
 - 🤖 **AI projects:** agentic AI workflows, chatbots, ML experiments
 - 🤝 **Collaborations:** open-source, student projects, AI + web experiments
 - 💼 **Opportunities:** AI/ML and full-stack roles
-
----
-
-## 📈 Goals for 2026
-
-- [x] Build and publish core front-end projects
-- [ ] Master React.js, Next.js and Tailwind CSS
-- [ ] Deploy all projects live on Netlify
-- [ ] Go deeper into Deep Learning and Agentic AI
-- [ ] Ship an AI-powered web app
-- [ ] Turn my AI/ML internship into a full-time role
 
 ---
 
