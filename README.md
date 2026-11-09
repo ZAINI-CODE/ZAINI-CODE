@@ -42,6 +42,7 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Learning Now**
 
@@ -50,6 +51,13 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Back-End & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 **AI / ML**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,6 +65,7 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools**
@@ -84,43 +93,59 @@ Hi, I'm **Muhammad Zain** — an **AI/ML Intern** and aspiring **Full-Stack Deve
 
 ## 💼 Featured Projects
 
-### 🛒 Online Bazar Website
-A responsive front-end shopping website with a clean, easy-to-navigate interface.
+### 🔬 ResearchForge — Final-Year Project *(Proposed)*
+An AI-powered research companion that helps students and researchers find, understand and organise academic work in one place.
 
-- 🧩 Product listings with interactive cards
-- 🔍 Search and filter functionality
-- 📱 Responsive Bootstrap grid layout
-- ✨ Clean UI and smooth navigation
+- 🔎 **Paper discovery:** search and explore relevant research papers by topic
+- 🧠 **AI-assisted synthesis:** summarise and combine findings from multiple papers
+- 📚 **Citation management:** collect, organise and format references
+- 🧬 **Semantic similarity checks:** compare text by meaning, not just matching words
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
+**Tech Stack:** `Next.js` `FastAPI` `Python`
 
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE) ![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-f59e0b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Proposed-f59e0b?style=flat-square) ![Repo](https://img.shields.io/badge/Repo-Coming_Soon-6b7280?style=flat-square)
 
-### 🥘 Recipe Maker App
-A front-end recipe search and viewer with dynamic content rendering.
+---
 
-- 🔍 Recipe search with ingredient filters
-- ⚙️ Dynamic recipe cards using JavaScript DOM
-- 📱 Responsive Bootstrap layout
-- 😊 Simple, clean, user-friendly UI
+### 📖 Study Buddy
+An AI study assistant that turns your own learning material into notes, answers and a study plan.
 
-`HTML` `CSS` `JavaScript`
+- 📝 **Smart notes:** generates notes from PDFs, slides and images
+- 💬 **Ask your material:** answers questions using only the content you upload (RAG-based Q&A)
+- ✅ **Task management:** keeps track of assignments and to-dos
+- 🗓️ **Timetables:** plans and organises study schedules
 
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE) ![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-f59e0b?style=flat-square)
+**Tech Stack:** `React` `TypeScript` `FastAPI` `MongoDB` `Gemini` `LangChain` `FAISS`
 
-### 🎓 Student Grade Calculator
-A responsive, interactive web app that calculates a student's grade from their marks, with robust client-side validation and a modern dark-themed UI.
+![Status](https://img.shields.io/badge/Status-In_Development-0ea5e9?style=flat-square) ![Repo](https://img.shields.io/badge/Repo-Coming_Soon-6b7280?style=flat-square)
 
-`HTML` `CSS` `JavaScript`
+---
 
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE/Student-Grade-Calculator)
+### 🏟️ BookFarm
+A full venue booking platform connecting customers, venue owners and service vendors.
 
-### 🧑‍💻 Personal Portfolio
-My personal front-end portfolio showcasing my work, skills and contact details.
+- 🔍 **Venue search & booking:** browse venues and reserve them online
+- 🎉 **Event-service add-ons:** add extra services to a booking
+- 📊 **Owner & vendor dashboards:** separate dashboards to manage listings, bookings and services
+- 💳 **Payment verification:** confirm payments before a booking is finalised
 
-`HTML` `CSS` `JavaScript`
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Supabase`
 
-[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE/My-portfolio) [![Site](https://img.shields.io/badge/Visit_Site-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://iamzaini058.com)
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE/rentplace-finder)
+
+---
+
+### 🍔 Food Delivery App
+A food ordering experience built around Pakistani restaurants, from browsing to delivery tracking.
+
+- 🍽️ **Restaurant search & menus:** find Pakistani restaurants and view their menus
+- 🛒 **Shopping cart:** add, remove and update items
+- 💵 **Checkout:** place orders with a simple checkout flow
+- 📍 **Order tracking:** follow an order's progress after it's placed
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Node.js`
+
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/ZAINI-CODE/Food_delivery_project)
 
 ---
 
